@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grkajac" alt="grkajac" /></a> </p>
 
-- 🔭 I’m currently working on [Doodle core services](www.doodle.com)
+- 🔭 I’m currently working on [Doodle core services](DoodleScheduling)
 
 - 🌱 I’m currently learning **Security protocols**
 
