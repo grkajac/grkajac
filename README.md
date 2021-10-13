@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate on **Microservice architecture projects**
 
-- 📫 How to reach me **aleksa888@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aleksandar-grkajac-a224a844/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/aleksandar-grkajac-a224a844/" height="30" width="40" /></a>
